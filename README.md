@@ -42,8 +42,7 @@ basically it sets the attribute (attrib) of all the subfolder and files within (
 attrib +h +s /s /d "name_when_hidden\*"
 attrib +h +s "name_when_hidden"
 ```
-However I did not rename the folder, as it will cause trouble when hiding multiple folder within the same directory without a custom hidden name function. 
-[see Some improvements that can be done](#-Some-improvements-can-be-done)
+However I did not rename the folder, as it will cause trouble when hiding multiple folder within the same directory without a custom hidden name function. (see [Some improvements that can be done](#some-improvements-can-be-done))
 
 If you ever forgot/miss-typed the password or path and can't retrieve the files in a hidden folder (either from a batch file or this app), don't panic.
 
