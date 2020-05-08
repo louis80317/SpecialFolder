@@ -3,7 +3,7 @@ SpecialFolder is a simple app to hide your folder with a password
 
 ## Installation
 1. clone or download to your local directory (your_dir)
-2. open and build using [Visual Studio](https://visualstudio.microsoft.com/)
+2. open and build using <a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio</a>
 3. SpecialFolder.exe should be created and can be found in your_dir/SpecialFolder/SpecialFolder/bin/Debug/SecretFolder.exe 
 <img src="others/exe.PNG" width="500" >
 
