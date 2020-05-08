@@ -55,7 +55,7 @@ Open your [File Explore] > select [View] > click on [Options] > then goto [View]
 My thought of this is because the folder have operating system attribute when hidden and there are tons of folder and file in System32, which makes the hidden folder harder to find!
 
 2. Change the file name to some encrypted name but doesn't conflict. Basically, every hidden folder will be assigned with a new name that seems random to people, but the app can retrieve the hidden folder name.
-perform something like [Encrypt & Decrypt Text](https://www.online-toolz.com/tools/text-encryption-decryption.php)
+perform something like <a href="https://www.online-toolz.com/tools/text-encryption-decryption.php" target="_blank">Encrypt & Decrypt Text</a>
 
 
 ## License
